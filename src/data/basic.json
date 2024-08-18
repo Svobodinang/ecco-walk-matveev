@@ -1,0 +1,107 @@
+[
+    {
+        "mainPage": true,
+        "content": {
+            "img": {
+                "name": "mainPage.jpg",
+                "namePt": "mainPagePt.jpg"
+            },
+            "title": "<span>Максим</span> <span>Матвеев</span>"
+        }
+    },
+    {
+        "content": {
+            "modifiers": "m1",
+            "accentText": "Этот город я&nbsp;мог&nbsp;бы тебе рассказать наизусть",
+            "text": "<p>Прогулка с&nbsp;Максимом Матвеевым&nbsp;&mdash; это игра, любопытство, сотворчество. Чистые живые эмоции. Возможность посмотреть на&nbsp;знакомый город под другим углом.</p>",
+            "shoesInfo": {
+                "helpText": "На&nbsp;Максиме <a href='https://www.ecco.ru/catalog/860404/50843/'>Ботинки ECCO STREET ACE RUGGED&nbsp;M</a>",
+                "link": "https://www.ecco.ru/catalog/860404/50843/",
+                "shoesImg": {
+                    "name": "shoes1.png",
+                    "alt": "Ботинки ECCO STREET ACE RUGGED M"
+                }
+            },
+            "img": {
+                "name": "img1.jpg",
+                "alt": "Фотография Максима Матвеева на улице"
+            }
+        }
+    },
+    {
+        "content": {
+            "modifiers": "img-full-size m2",
+            "accentText": "Но&nbsp;сегодня я&nbsp;в&nbsp;нем иностранец",
+            "text": "<p>Максим&nbsp;&mdash; интеллигентный хулиган, которому любопытно заглянуть за&nbsp;и&nbsp;перешагнуть через. С&nbsp;ним каждая прогулка&nbsp;&mdash; импровизация.</p>",
+            "shoesInfo": {
+                "helpText": "На&nbsp;Максиме <a href='https://www.ecco.ru/catalog/520814/55250/'>Кеды ECCO STREET 720&nbsp;M</a>",
+                "link": "https://www.ecco.ru/catalog/520814/55250/"
+            },
+            "img": {
+                "name": "img2.jpg",
+                "alt": "Фотография Максима Матвеева на улице"
+            }
+        }
+    },
+    {
+        "content": {
+            "modifiers": "m3",
+            "accentText": "Повседнев&shy;ность полна красоты",
+            "text": "<p>Когда удается поймать это особое настроение: твори, фантазируй, удивляйся. Отложи в&nbsp;сторону навигатор и&nbsp;посмотри по&nbsp;сторонам. Куда тебе хочется пойти прямо сейчас?</p>",
+            "shoesInfo": {
+                "helpText": "На&nbsp;Максиме <a href='https://www.ecco.ru/catalog/856814/50843/'>Кеды ECCO STREET ACE&nbsp;M</a>",
+                "link": "https://www.ecco.ru/catalog/856814/50843/",
+                "shoesImg": {
+                    "name": "shoes2.png",
+                    "alt": "Кеды ECCO STREET ACE M"
+                }
+            },
+            "img": {
+                "name": "img3.jpg",
+                "alt": "Фотография Максима Матвеева на улице"
+            }
+        }
+    },
+    {
+        "content": {
+            "modifiers": "img-full-size m4",
+            "accentText": "И&nbsp;я&nbsp;чувствую себя...",
+            "text": "<p>У&nbsp;этого города еще столько нераскрытых секретов и&nbsp;тайных уголков. Кажется, можно бродить с&nbsp;утра до&nbsp;ночи, замечая новые фасады и&nbsp;вглядываясь в&nbsp;лица прохожих.</p>",
+            "shoesInfo": {
+                "helpText": "На&nbsp;Максиме <a href='https://www.ecco.ru/catalog/550224/01001/'>Туфли ECCO METROPOLE OSLO</a>",
+                "link": "https://www.ecco.ru/catalog/550224/01001/"
+            },
+            "img": {
+                "name": "img4.jpg",
+                "alt": "Фотография Максима Матвеева на улице"
+            }
+        }
+    },
+    {
+        "content": {
+            "modifiers": "",
+            "accentText": "...живым",
+            "text": "<p>И&nbsp;как&nbsp;же классно почувствовать себя в&nbsp;этом городе, в&nbsp;этом неповторимом моменте. Играть, исследовать и&nbsp;слышать пульсацию жизни в&nbsp;каждом шаге.</p>",
+            "shoesInfo": {
+                "helpText": "На&nbsp;Максиме <a href='https://www.ecco.ru/catalog/822434/58277/'>Ботинки ECCO OFFROAD&nbsp;M</a>",
+                "link": "https://www.ecco.ru/catalog/822434/58277//",
+                "shoesImg": {
+                    "name": "shoes3.png",
+                    "alt": "Ботинки ECCO OFFROAD M"
+                }
+            },
+            "img": {
+                "name": "img5.jpg",
+                "alt": "Фотография Максима Матвеева на улице"
+            }
+        }
+    },
+    {
+        "videoBlock": true,
+        "content": {
+            "accentText": "Пойдем пройдемся?",
+            "link": "https://edge-msk-7.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/9c200824-f904-45a6-a18b-345156bad13e/assets/c007ce3e-4b28-4b0d-a0e2-2de7a93550d5/original.mp4",
+            "previewImgName": "preview.jpg"
+        }
+    }
+]
