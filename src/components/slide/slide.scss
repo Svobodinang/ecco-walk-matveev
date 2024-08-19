@@ -27,6 +27,7 @@
             height: vh(125);
             margin-bottom: vh(189);
             letter-spacing: -0.03em;
+            pointer-events: all;
 
             @media (--viewport-portrait-layout) {
                 height: auto;
@@ -39,6 +40,7 @@
             font-size: rem(18);
             width: rem(487);
             align-self: flex-end;
+            pointer-events: all;
 
             p {
                 line-height: 1.2;
@@ -52,38 +54,6 @@
 
             p:not(:last-of-type) {
                 margin-bottom: 1em;
-            }
-        }
-
-        &__button {
-            display: flex;
-            align-items: center;
-            gap: rem(14);
-            text-decoration: unset;
-            background-color: $color-light;
-            padding: rem(10);
-            padding-left: rem(14);
-            border-radius: rem(20);
-            transition: background-color 0.35s ease;
-            align-self: flex-end;
-
-            @media (--viewport-portrait-layout) {
-                width: 100%;
-                align-self: center;
-                justify-content: space-between;
-                font-size: rem(12, true);
-                gap: 0;
-                padding: rem(5, true);
-                padding-left: rem(14, true);
-
-                svg {
-                    width: rem(35, true);
-                    height: rem(35, true);
-                }
-            }
-
-            &:hover {
-                background-color: white;
             }
         }
 
@@ -103,6 +73,7 @@
             margin-top: vh(60);
             font-size: rem(12);
             line-height: 1.2;
+            pointer-events: all;
 
             @media (--viewport-portrait-layout) {
                 font-size: rem(12, true);
@@ -128,6 +99,7 @@
             width: vh(647);
             height: vh(884);
             object-fit: cover;
+            pointer-events: all;
 
             @media (--viewport-portrait-layout) {
                 margin-top: 0;
@@ -144,6 +116,7 @@
             position: absolute;
             right: vh(-243);
             cursor: pointer;
+            pointer-events: all;
 
             @media (--viewport-portrait-layout) {
                 width: rem(164, true);
@@ -179,7 +152,7 @@
 
         &.m1 {
             .slide__accent-text {
-                width: vh(1360);
+                width: vh(1460);
 
                 @media (--viewport-portrait-layout) {
                     width: 100vw;
